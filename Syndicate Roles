@@ -8,7 +8,9 @@ You lead the Syndicate’s local cell, directing assassinations, cover-ups, and 
 • If a Syndicate Agent exists, they perform the kill instead.
 • You appear loyal under standard scans.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be Station Security, Syndicate Commander, or Wizard.”
+Sleeper Agent: “Every call, every hit, every lie starts with them — Syndicate Commander.”
 
 
 
@@ -21,7 +23,9 @@ You are the Syndicate’s field operator — loyal, efficient, and expendable. Y
 • Execute the Commander’s chosen target.
 • If no Commander exists, you assume command.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Cadet, Deputy, Syndicate Agent, or Syndicate Hitman.”
+Sleeper Agent: “Standard enforcer. Quick hands — Syndicate Agent.”
 
 
 
@@ -35,7 +39,9 @@ You alter logs, forge records, and falsify data to turn NanoTrasen’s systems a
 • Anyone investigating them will see Syndicate-aligned results.
 • If no Agent remains, you become an Agent.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Revolutionary, Clown, or Vampire.”
+Sleeper Agent: “They live in forged logs and doctored files — Revolutionary.”
 
 
 
@@ -48,7 +54,9 @@ You are a deep-cover intelligence asset posing as crew. You collect data on ever
 • Each night, investigate one player to learn their exact role.
 • If no Agent remains, you become an Agent.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Detective, Sleeper Agent, or Head of Personnel.”
+Sleeper Agent: “They pull records you thought were deleted — Sleeper Agent.”
 
 
 
@@ -64,7 +72,9 @@ You handle cleanup operations. Nobody leaves a messy trail on your watch.
 • Limited to three cleanings.
 • If no Agent remains, you become an Agent.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Chaplain, Janitor, or Retributionist.”
+Sleeper Agent: “They don’t remove stains, they erase people — Janitor.”
 
 
 
@@ -79,7 +89,9 @@ A rogue clone created in an NT lab accident, repurposed by the Syndicate to impe
 • PALs will see incorrect visitor logs.
 • If no Agent remains, you become an Agent.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Director of Care, Paradox Clone, or Space Ninja.”
+Sleeper Agent: “Glitchy movement pattern — Paradox Clone.”
 
 
 
@@ -93,3 +105,7 @@ You traffic in stolen data and leverage. You don’t need a gun when you have so
 • Blackmailed players cannot speak the next day.
 • You overhear private transmissions.
 • If no Agent remains, you become an Agent.
+
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a PAL, Thief, or Bailiff.”
+Sleeper Agent: “Too many passwords memorized — Thief.”
