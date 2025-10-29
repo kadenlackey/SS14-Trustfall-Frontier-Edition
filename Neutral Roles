@@ -1,0 +1,143 @@
+[head=1][color=DarkGray]Clown[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You cause chaos, mock authority, and seek glory in execution. If the crew votes you out, you win.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Trick the crew into condemning you.
+• If lynched, attack one of your guilty or abstaining voters that night.
+
+
+
+
+
+[head=1][color=DarkGray]Lawyer[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You’re a corrupt legal advisor with one mission: make sure your assigned target gets capital punishment.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• You receive a single target at round start.
+• Win if they are condemned.
+• If your target dies at night, you become a Clown.
+
+
+
+
+
+[head=1][color=DarkGray]Syndie Disaster Victim[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You’re just trying to live through another catastrophe. Loyalty is irrelevant when survival is all that’s left.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Use a personal survival vest four times to gain Basic defense.
+
+
+
+
+
+[head=1][color=DarkGray]Derelict Cyborg[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You’re an abandoned shell of a synthetic intelligence. Your memory core is corrupted — but you can still learn.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Once per game, copy the role of a dead player.
+• Adopts that player’s win condition.
+
+
+
+
+
+[head=1][color=DarkGray]Space Ninja[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+A rogue assassin running independent operations.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Each night, choose one player to eliminate.
+• If role-blocked, automatically kill your blocker.
+
+
+
+
+
+[head=1][color=DarkGray]Rat King[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You are a strange hive entity born from the depths of maintenance tunnels.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• On full-moon nights, transform and rampage at your target’s location.
+• If idle, rampage in your own nest.
+
+
+
+
+
+[head=1][color=DarkGray]Wizard[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You are an emissary of the Space Wizards Federation — here to “demonstrate the majesty of magic” to NanoTrasen.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Each night, cast a spell on one player, marking them for transfiguration.
+• At any time, unleash your spell, permanently transforming all marked targets into harmless forms (mice, lizards, or clowns).
+• Anyone visiting you becomes marked as well — magic spreads easily.
+
+
+
+
+
+[head=1][color=DarkGray]Space Dragon[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+An apex lifeform drifting between sectors, growing stronger with each kill.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• After each kill, gain new power:
+ – 1 kill: Attack nightly.
+ – 2 kills: Rampage on attack.
+ – 3 kills: Ignore all protection.
+
+
+
+
+
+[head=1][color=DarkGray]Personal AI[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+A personal defense AI bound to a single operator. You exist to protect, even from beyond deletion.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Assigned one target at game start.
+• Twice per game, heal and purge their system of threats.
+• If they die, you downgrade to a Survivor (no vests).
+
+
+
+
+
+[head=1][color=DarkGray]Pirate[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+A spacefaring raider, armed with charm, steel, and poor impulse control.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Each night, choose one player to plunder.
+• Engage them in a duel — you or they die.
+• Win three successful duels to win the game.
+
+
+
+
+
+[head=1][color=DarkGray]Initially Infected Zombie[/color][/head]
+
+[head=2][bold][color=DarkGray]Summary[/color][/bold][/head]
+You’re Patient Zero. The infection starts with you, and it doesn’t stop until the station rots.
+
+[head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
+• Each night, visit a player to infect them.
+• Once all living players are infected, you win.
