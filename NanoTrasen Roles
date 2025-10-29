@@ -10,7 +10,9 @@ You are the Head of Detention and Station Security’s last line of internal dis
 • The detained cannot act that night.
 • Executing a confirmed loyal employee results in immediate suspension of execution privileges.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Sleeper Agent, Thief, or Bailiff.”
+Sleeper Agent: “This one runs the brig. — Bailiff.”
 
 
 
@@ -24,7 +26,9 @@ You have the highest medical authority aboard the station. You patch wounds quie
 • You may only heal yourself once.
 • You will be informed if your patient was attacked.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Director of Care, Paradox Clone, or Space Ninja.”
+Sleeper Agent: “A steady hand with a scalpel — Director of Care.”
 
 
 
@@ -36,7 +40,9 @@ You gather evidence, review camera logs, and track suspicious activity across th
 [head=2][bold][color=MediumBlue]Abilities[/color][/bold][/head]
 • Each night, investigate one person for clues about their alignment.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Detective, Sleeper Agent, or Head of Personnel.”
+Sleeper Agent: “They collect more data than Command’s archives — Detective.”
 
 
 
@@ -48,7 +54,9 @@ You enforce NanoTrasen law and investigate suspicious behavior among the crew.
 [head=2][bold][color=MediumBlue]Abilities[/color][/bold][/head]
 • Each night, interrogate one person for Syndicate activity.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Sheriff, Lawyer, or Rat King.”
+Sleeper Agent: “They flash that badge like a holy symbol — Sheriff.”
 
 
 
@@ -60,7 +68,9 @@ You are the face of the NFSD’s bureaucracy. You manage the flow of paperwork, 
 [head=2][bold][color=MediumBlue]Abilities[/color][/bold][/head]
 • Watch one person at night to see who visits them.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a PAL, Revolutionary, or Telepathic Manipulator.”
+Sleeper Agent: “Always in everyone’s business, and somehow never at fault — PAL.”
 
 
 
@@ -73,7 +83,9 @@ You protect key personnel and neutralize active threats on sight.
 • Guard one player at night.
 • If they are attacked, you intercept the attack and kill the assailant.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be Station Security, Syndicate Commander, or Wizard.”
+Sleeper Agent: “Wannabe Military posture, heavy stance — Station Security.”
 
 
 
@@ -86,7 +98,9 @@ You use charm and conversation to distract crew and derail their plans.
 • Distract one person at night, blocking their action.
 • Your charm cannot be blocked.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Bartender, Transport Officer, Smuggler, or Psionic Interloper.”
+Sleeper Agent: “They’re too charming for their own good — Bartender.”
 
 
 
@@ -100,7 +114,9 @@ You’re a security trainee with a firearm and questionable restraint.
 • Killing loyal crew will lead to mindwipe by Central Command.
 • Limited to three uses.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Cadet, Deputy, Syndicate Agent, or Syndicate Hitman.”
+Sleeper Agent: “That twitchy aim and badge combo — Cadet.”
 
 
 
@@ -113,3 +129,7 @@ You guide the crew’s spirits and occasionally see visions of their fates.
 • Each night, receive visions revealing potential loyalties.
 • On odd nights: Three names, one hostile.
 • On even nights: Two names, one loyal.
+
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Syndie Disaster Victim, Cyborg, Changeling, or Chaplain.”
+Sleeper Agent: “They talk to ghosts — Chaplain.”
