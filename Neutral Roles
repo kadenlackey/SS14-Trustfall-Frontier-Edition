@@ -7,7 +7,9 @@ You cause chaos, mock authority, and seek glory in execution. If the crew votes 
 • Trick the crew into condemning you.
 • If lynched, attack one of your guilty or abstaining voters that night.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Revolutionary, Clown, or Zombie.”
+Sleeper Agent: “They want to die for the attention — Clown.”
 
 
 
@@ -21,7 +23,9 @@ You’re a corrupt legal advisor with one mission: make sure your assigned targe
 • Win if they are condemned.
 • If your target dies at night, you become a Clown.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Sheriff, Lawyer, or Rat King.”
+Sleeper Agent: “They’re gunning for a verdict, not justice — Lawyer.”
 
 
 
@@ -33,7 +37,9 @@ You’re just trying to live through another catastrophe. Loyalty is irrelevant 
 [head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
 • Use a personal survival vest four times to gain Basic defense.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Syndie Disaster Victim, Cyborg, or Chaplain.”
+Sleeper Agent: “They keep their head down and their vest on — Syndie Disaster Victim.”
 
 
 
@@ -46,7 +52,9 @@ You’re an abandoned shell of a synthetic intelligence. Your memory core is cor
 • Once per game, copy the role of a dead player.
 • Adopts that player’s win condition.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Syndie Disaster Victim, Cyborg, or Chaplain.”
+Sleeper Agent: “No logs, no memory, but they mimic perfectly — Derelict Cyborg.”
 
 
 
@@ -59,7 +67,9 @@ A rogue assassin running independent operations.
 • Each night, choose one player to eliminate.
 • If role-blocked, automatically kill your blocker.
 
-
+Sheriff: “Suspicious activity detected.”
+Detective: “Could be a Director of Care, Paradox Clone, or Space Ninja.”
+Sleeper Agent: “They leave nothing but clean cuts — Space Ninja.”
 
 
 
@@ -72,7 +82,9 @@ You are a strange hive entity born from the depths of maintenance tunnels.
 • On full-moon nights, transform and rampage at your target’s location.
 • If idle, rampage in your own nest.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Sheriff, Lawyer, or Rat King.”
+Sleeper Agent: “Movement readings spiking — swarm pattern. Rat King.”
 
 
 
@@ -86,7 +98,9 @@ You are an emissary of the Space Wizards Federation — here to “demonstrate t
 • At any time, unleash your spell, permanently transforming all marked targets into harmless forms (mice, lizards, or clowns).
 • Anyone visiting you becomes marked as well — magic spreads easily.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be Station Security, Syndicate Commander, or Wizard.”
+Sleeper Agent: “A walking anomaly from the Federation — Wizard.”
 
 
 
@@ -101,7 +115,9 @@ An apex lifeform drifting between sectors, growing stronger with each kill.
  – 2 kills: Rampage on attack.
  – 3 kills: Ignore all protection.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a PAL, Smuggler, or Space Dragon.”
+Sleeper Agent: “Lifeform unclassified. Lethality off the charts — Space Dragon.”
 
 
 
@@ -115,7 +131,9 @@ A personal defense AI bound to a single operator. You exist to protect, even fro
 • Twice per game, heal and purge their system of threats.
 • If they die, you downgrade to a Survivor (no vests).
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a PAL, Thief, or Personal AI.”
+Sleeper Agent: “Protective routines dominant. Bound program — Personal AI.”
 
 
 
@@ -129,7 +147,9 @@ A spacefaring raider, armed with charm, steel, and poor impulse control.
 • Engage them in a duel — you or they die.
 • Win three successful duels to win the game.
 
-
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Cadet, Veteran, Syndicate Agent, or Pirate.”
+Sleeper Agent: “They don’t want loyalty — just loot. Pirate.”
 
 
 
@@ -141,3 +161,7 @@ You’re Patient Zero. The infection starts with you, and it doesn’t stop unti
 [head=2][bold][color=DarkGray]Abilities[/color][/bold][/head]
 • Each night, visit a player to infect them.
 • Once all living players are infected, you win.
+
+Sheriff: “No obvious misconduct detected.”
+Detective: “Could be a Detective, Sleeper Agent, or Initial Infected Zombie.”
+Sleeper Agent: “They cough and end sectors — Initial Infected Zombie.”
