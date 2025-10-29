@@ -1,0 +1,95 @@
+[head=1][color=Crimson]Syndicate Commander[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You lead the Syndicate’s local cell, directing assassinations, cover-ups, and propaganda against NanoTrasen operations. Every order runs through you.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Each night, choose one player to eliminate.
+• If a Syndicate Agent exists, they perform the kill instead.
+• You appear loyal under standard scans.
+
+
+
+
+
+[head=1][color=Crimson]Syndicate Agent[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You are the Syndicate’s field operator — loyal, efficient, and expendable. You take the Commander’s orders and make the bodies disappear.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Execute the Commander’s chosen target.
+• If no Commander exists, you assume command.
+
+
+
+
+
+[head=1][color=Crimson]Revolutionary[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You alter logs, forge records, and falsify data to turn NanoTrasen’s systems against itself.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Choose one player each night to frame.
+• Anyone investigating them will see Syndicate-aligned results.
+• If no Agent remains, you become an Agent.
+
+
+
+
+
+[head=1][color=Crimson]Sleeper Agent[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You are a deep-cover intelligence asset posing as crew. You collect data on every major player before activating.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Each night, investigate one player to learn their exact role.
+• If no Agent remains, you become an Agent.
+
+
+
+
+
+[head=1][color=Crimson]Janitor[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You handle cleanup operations. Nobody leaves a messy trail on your watch.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Choose one player each night to clean.
+• If they die, their role and notes are hidden from the station.
+• You see the true identity of cleaned targets.
+• Limited to three cleanings.
+• If no Agent remains, you become an Agent.
+
+
+
+
+
+[head=1][color=Crimson]Paradox Clone[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+A rogue clone created in an NT lab accident, repurposed by the Syndicate to impersonate crew. It’s nearly perfect — until it forgets who it copied.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Each night, disguise one Syndicate member as another player.
+• Investigators will see the false role.
+• PALs will see incorrect visitor logs.
+• If no Agent remains, you become an Agent.
+
+
+
+
+
+[head=1][color=Crimson]Thief[/color][/head]
+
+[head=2][bold][color=Crimson]Summary[/color][/bold][/head]
+You traffic in stolen data and leverage. You don’t need a gun when you have someone’s entire message history.
+
+[head=2][bold][color=Crimson]Abilities[/color][/bold][/head]
+• Choose one person each night to silence.
+• Blackmailed players cannot speak the next day.
+• You overhear private transmissions.
+• If no Agent remains, you become an Agent.
